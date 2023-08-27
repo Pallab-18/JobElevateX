@@ -7,7 +7,7 @@ securing the admin panel,fetching single job with proper alignment,connectivity
 
 The snapshots -->
 
-#home page
+# home page
 ![home](https://github.com/Pallab-18/JobElevateX/assets/99742232/6777c92a-f3c1-4267-a0ea-9f8434296176)
 
 ![login](https://github.com/Pallab-18/JobElevateX/assets/99742232/7a86b4a1-6400-49cf-bf40-ee1e28b7985e)
